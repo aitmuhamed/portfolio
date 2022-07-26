@@ -12,7 +12,7 @@ function Projects() {
           <div className="relative flex items-center justify-center w-full h-auto p-4 shadow-xl rounded-xl group hover:animate-pulse hover:bg-gradient-to-r from-teal-600 to-teal-800">
             <Image
               className="group-hover:opacity-10"
-              src={"/assets/simple.png"}
+              src={"/assets/Neobank.webp"}
               width="550"
               height="300"
               alt="/"
@@ -31,7 +31,7 @@ function Projects() {
           <div className="relative flex items-center justify-center w-full h-auto p-4 shadow-xl group rounded-xl hover:animate-pulse hover:bg-gradient-to-r from-teal-600 to-teal-800">
             <Image
               className="group-hover:opacity-10"
-              src={"/assets/simple.png"}
+              src={"/assets/Neobank.webp"}
               width="550"
               height="300"
               alt="/"
@@ -52,7 +52,7 @@ function Projects() {
           <div className="relative flex items-center justify-center w-full h-auto p-4 shadow-xl group rounded-xl hover:animate-pulse hover:bg-gradient-to-r from-teal-600 to-teal-800">
             <Image
               className="group-hover:opacity-10"
-              src={"/assets/simple.png"}
+              src={"/assets/Neobank.webp"}
               width="550"
               height="300"
               alt="/"
@@ -71,7 +71,7 @@ function Projects() {
           <div className="relative flex items-center justify-center w-full h-auto p-4 shadow-xl group rounded-xl hover:animate-pulse hover:bg-gradient-to-r from-teal-600 to-teal-800">
             <Image
               className="group-hover:opacity-10"
-              src={"/assets/simple.png"}
+              src={"/assets/Neobank.webp"}
               width="550"
               height="300"
               alt="/"
