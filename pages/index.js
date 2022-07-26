@@ -3,16 +3,16 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import Nav from './components/Nav'
+import Nav from "./components/Nav";
 
 export default function Home() {
   return (
     <>
-      <Nav/>
+      <Nav />
       <Main />
       <About />
       <Skills />
-      <Projects />
+      {/* <Projects /> */}
       <Contact />
     </>
   );

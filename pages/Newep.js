@@ -1,5 +1,5 @@
 import Image from "next/image";
-// import mbank from "../public/img/mbank.png";
+import mbank from "../public/img/mbank.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 
