@@ -1,14 +1,14 @@
-import { AiOutlineMenu, AiOutlineClose, AiOutlineMail } from "react-icons/ai";
-import { FaLinkedinIn, FaGithub } from "react-icons/fa";
-import { BsChevronDoubleLeft, BsFillPersonLinesFill } from "react-icons/bs";
-import Link from "next/link";
-import { HiOutlineChevronDoubleUp } from "react-icons/hi";
 import Image from "next/image";
+import Link from "next/link";
+import { AiOutlineMail } from "react-icons/ai";
+import { BsFillPersonLinesFill } from "react-icons/bs";
+import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+import { HiOutlineChevronDoubleUp } from "react-icons/hi";
 
 // to handle the form
-import { useForm } from "react-hook-form";
 import axios from "axios";
 import { useRouter } from "next/router";
+import { useForm } from "react-hook-form";
 
 function Contact() {
   const { register, handleSubmit, errors, reset } = useForm();
