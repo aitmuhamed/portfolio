@@ -1,5 +1,5 @@
 import Image from "next/image";
-import simple from "../public/img/simple.png";
+// import simple from "../public/img/simple.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 
