@@ -395,7 +395,7 @@ Same as above, repeat this for each project you want to display:
          <div className="relative flex items-center justify-center w-full h-auto p-4 shadow-xl group rounded-xl hover:bg-gradient-to-r from-teal-600 to-teal-800">
             <Image
               className="group-hover:opacity-10"
-              src="/../public/assets/projects/movie.png"
+              src="/../public/img/movie.png"
               width="550"
               height="300"
               alt="/"

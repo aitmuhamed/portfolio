@@ -1,9 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
-import movie from "../../public/assets/projects/movie.png";
-import mbank from "../../public/assets/projects/mbank.png";
-import demo from "../../public/assets/projects/demo.png";
-import simple from "../../public/assets/projects/simple.png";
+import movie from "../../public/img/movie.png";
+import mbank from "../../public/img/mbank.png";
+import demo from "../../public/img/demo.png";
+import simple from "../../public/img/simple.png";
 
 function Projects() {
   return (
