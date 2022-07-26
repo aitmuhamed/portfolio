@@ -1,6 +1,5 @@
-import Image from "next/image";
-import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
+import { RiRadioButtonFill } from "react-icons/ri";
 
 function Newep() {
   return (
